@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govind
-- 👀 I’m interested in web-development, python and C
-- 🌱 I’m currently learning in Sis-Tec-R Bhopal
+- 👀 I’m having Good Knowledge of C & Python Programming Languages, Flutter Application Development, HTML, CSS, JS
+- 🌱 I’m currently learning in SisTec-R, Bhopal
 - 📫 How to reach me on hold
 
 <!---
